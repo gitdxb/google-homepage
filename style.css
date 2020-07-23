@@ -51,7 +51,7 @@ li a {
     width: 100%;
 }
 .search {
-    background-image: url('/searchicon.png');
+    background-image: url('searchicon.png');
     width: 500px;
     background-repeat: no-repeat;
     height: 40px;
